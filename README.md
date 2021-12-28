@@ -1,6 +1,6 @@
 <h1>Hello, I'm Josh; <br/>Programmer, Cybersecurity Professional, and YouTuber</h1>
 
-<h2👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [4chan Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
